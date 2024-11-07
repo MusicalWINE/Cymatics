@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name= Cymatics Hub
+Exec= wineconsole "/home/$USER/.wine/drive_c/users/redlintu16/AppData/Local/Programs/cymatics-hub/Cymatics Hub.exe"
+Type=Application
+Icon=8093_Cymatics Hub.0
+StartupWMClass=cymatics hub.exe
